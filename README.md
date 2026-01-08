@@ -9,7 +9,7 @@ STM32 Traffic Light Controller (Bare Metal)
 
 ---
 
-## 🛠 Hardware Manifest (Аппаратная часть)
+## Hardware Manifest (Аппаратная часть)
 
 * **MCU:** STM32F103C8T6 "Blue Pill"
 * **Debug:** ST-Link V2 (SWD)
