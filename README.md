@@ -1,4 +1,4 @@
-STM32 Traffic Light Controller (Bare Metal)
+# STM32 Traffic Light Controller (Bare Metal)
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-STM32F103-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
