@@ -1,8 +1,8 @@
 # STM32 Traffic Light Controller (Bare Metal)
 
-![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-STM32F103-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-ARM_Cortex_M3-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-003399?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 Проект системы управления светофором, реализованный на микроконтроллере **STM32F103C8T6 (Blue Pill)**.
 Код написан на **чистом C с использованием регистров (CMSIS)**, без использования библиотек HAL или SPL, для глубокого понимания архитектуры MCU.
